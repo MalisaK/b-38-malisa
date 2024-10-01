@@ -21,5 +21,6 @@ public abstract class Enemy : Character
     {
         Behaviour();
     }
+
     public abstract void Behaviour();
 }
